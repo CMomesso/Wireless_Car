@@ -1,2 +1,2 @@
 # Wireless_Car
-Remote control of an espCam car using an access point 
+Remote control of an espCam car by creating an access point 
